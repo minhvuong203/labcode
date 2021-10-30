@@ -1,0 +1,20 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: violet;
+    padding-top: 25px;
+}
+h2{
+    color: greenyellow;
+}
+b{
+    color: red;
+}
+li{
+    color: rosybrown;
+}
+p:first-letter{
+    color: rgb(85, 1, 85);
+    font-size: 25px;
+}
